@@ -15,9 +15,11 @@ Then press scan
 5. Do this until shadows will gone and you will see everything (Next steps are optional, but its better to do them), then better will be find which address does removes shadows by changing the value back to 16843009
 6. After (Or when, whatever) you find it, add it to address list, and put a "Active" mark on it so it will stay this value forever
 7. Change the value back to "16843008" or to "0"
-
+```
+```
 Now these are optional
 There are few fullbright types
-You can be able to see everything in dark but not whatever behind the wall by changing 16843009 to: "15843009"
-Also you can change 16843009 to "16842009" but I don't call this a fullbright/wallhack
+You can be able to see everything in dark but not whatever behind the wall by changing 16843009 to: "15843009" this will enable Half-Fullbright
+Also you can change 16843009 to "16842009" but I don't call this a fullbright/wallhack or Half-Fullbright or quarter-fullbright, cuz u just see doors and uhh I forgot name, some other things, that have glow parts
 ```
+Also there is a program that do all this for you, but it can only be full fullbright
