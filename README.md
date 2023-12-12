@@ -6,6 +6,8 @@ Keep in mind, I haven't found this, its not my way, I just found it on youtube a
 Also keep in mind that it works at not all servers
 
 I will use ss14 for short, which means space station 14
+
+
 ```
 1. you gonna need cheat engine.
 2. Choose ss14 proccess (NOT LAUNCHER)
@@ -16,6 +18,7 @@ In Value you put: 16843009
 Then press scan
 4. After it scanned, you should change Addresses to "16843008" or to "0"
 5. Do this until shadows will gone and you will see everything (Next steps are optional, but its better to do them), then better will be find which address does removes shadows by changing the value back to 16843009
+TO CHANGE VALUES FAST, PRESS HOLDING CTRL ON FIRST ADDRESS THEN HOLDING CTRL AND SHIFT PRESS ON OTHER, RIGHT CLICK, CHANGE VALUE OF ADDRESSES
 6. After (Or when, whatever) you find it, add it to address list, and put a "Active" mark on it so it will stay this value forever
 7. Change the value back to "16843008" or to "0"
 ```
