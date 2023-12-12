@@ -7,7 +7,7 @@ Also keep in mind that it works at not all servers
 
 I will use ss14 for short, which means space station 14
 
-
+TO CHANGE VALUES FAST, PRESS HOLDING CTRL ON FIRST ADDRESS THEN HOLDING CTRL AND SHIFT PRESS ON OTHER, RIGHT CLICK, CHANGE VALUE OF ADDRESSES
 ```
 1. you gonna need cheat engine.
 2. Choose ss14 proccess (NOT LAUNCHER)
