@@ -1,3 +1,5 @@
+I may add tutorial right inside of cheat engine table (its just gonna take some time which I don't want to spend cuz im lazy as hell :D)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 EN
 ```
 1. To do so you have to first find the value that cuts off shadows and etc, you know how to do it from the tutorial
