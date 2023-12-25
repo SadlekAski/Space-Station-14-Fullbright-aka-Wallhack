@@ -4,6 +4,7 @@
     <CheatEntry>
       <ID>25</ID>
       <Description>"Activate (Place mark on active box) to expand fullbright and bypass tutorial "headers""</Description>
+      <Color>BDA866</Color>
       <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
@@ -21,18 +22,33 @@
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
-              <ID>3</ID>
+              <ID>4</ID>
               <Description>"fb of"</Description>
               <VariableType>4 Bytes</VariableType>
-              <Address>"gameoverlayrenderer64.dll"+00158B58</Address>
+              <Address>"gameoverlayrenderer64.dll"+001474D8</Address>
               <Offsets>
                 <Offset>8</Offset>
                 <Offset>18</Offset>
-                <Offset>58</Offset>
-                <Offset>40</Offset>
+                <Offset>60</Offset>
+                <Offset>10</Offset>
                 <Offset>0</Offset>
-                <Offset>8C</Offset>
-                <Offset>308</Offset>
+                <Offset>6C</Offset>
+                <Offset>10</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>5</ID>
+              <Description>"fb of"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"gameoverlayrenderer64.dll"+001474D8</Address>
+              <Offsets>
+                <Offset>8</Offset>
+                <Offset>18</Offset>
+                <Offset>60</Offset>
+                <Offset>10</Offset>
+                <Offset>0</Offset>
+                <Offset>6C</Offset>
+                <Offset>8</Offset>
               </Offsets>
               <Hotkeys>
                 <Hotkey>
@@ -41,9 +57,8 @@
                     <Key>113</Key>
                   </Keys>
                   <Value>16843009</Value>
-                  <Description>obvious ngl</Description>
+                  <Description>obvious fr.</Description>
                   <ID>0</ID>
-                  <ActivateSound>Deactivate</ActivateSound>
                 </Hotkey>
               </Hotkeys>
             </CheatEntry>
@@ -57,18 +72,33 @@
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
-              <ID>26</ID>
+              <ID>30</ID>
               <Description>"fb on"</Description>
               <VariableType>4 Bytes</VariableType>
-              <Address>"gameoverlayrenderer64.dll"+00158B58</Address>
+              <Address>"gameoverlayrenderer64.dll"+001474D8</Address>
               <Offsets>
                 <Offset>8</Offset>
                 <Offset>18</Offset>
-                <Offset>58</Offset>
-                <Offset>40</Offset>
+                <Offset>60</Offset>
+                <Offset>10</Offset>
                 <Offset>0</Offset>
-                <Offset>8C</Offset>
-                <Offset>308</Offset>
+                <Offset>6C</Offset>
+                <Offset>10</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>31</ID>
+              <Description>"fb on"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"gameoverlayrenderer64.dll"+001474D8</Address>
+              <Offsets>
+                <Offset>8</Offset>
+                <Offset>18</Offset>
+                <Offset>60</Offset>
+                <Offset>10</Offset>
+                <Offset>0</Offset>
+                <Offset>6C</Offset>
+                <Offset>8</Offset>
               </Offsets>
               <Hotkeys>
                 <Hotkey>
@@ -77,7 +107,7 @@
                     <Key>115</Key>
                   </Keys>
                   <Value>16843008</Value>
-                  <Description>obvious ngl, why are you even looking there?</Description>
+                  <Description>obvious fr. stop looking there</Description>
                   <ID>0</ID>
                 </Hotkey>
               </Hotkeys>
@@ -92,18 +122,18 @@
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
-              <ID>27</ID>
+              <ID>32</ID>
               <Description>"half-fb"</Description>
               <VariableType>4 Bytes</VariableType>
-              <Address>"gameoverlayrenderer64.dll"+00158B58</Address>
+              <Address>"gameoverlayrenderer64.dll"+001474D8</Address>
               <Offsets>
                 <Offset>8</Offset>
                 <Offset>18</Offset>
-                <Offset>58</Offset>
-                <Offset>40</Offset>
+                <Offset>60</Offset>
+                <Offset>10</Offset>
                 <Offset>0</Offset>
-                <Offset>8C</Offset>
-                <Offset>308</Offset>
+                <Offset>6C</Offset>
+                <Offset>10</Offset>
               </Offsets>
               <Hotkeys>
                 <Hotkey>
@@ -112,7 +142,33 @@
                     <Key>97</Key>
                   </Keys>
                   <Value>15843009</Value>
-                  <Description>obvious ngl, bruh, human, pls stop looking there</Description>
+                  <Description>obvious fr... stop</Description>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>33</ID>
+              <Description>"half-fb"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"gameoverlayrenderer64.dll"+001474D8</Address>
+              <Offsets>
+                <Offset>8</Offset>
+                <Offset>18</Offset>
+                <Offset>60</Offset>
+                <Offset>10</Offset>
+                <Offset>0</Offset>
+                <Offset>6C</Offset>
+                <Offset>8</Offset>
+              </Offsets>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>113</Key>
+                  </Keys>
+                  <Value>16843009</Value>
+                  <Description>obvious fr.</Description>
                   <ID>0</ID>
                 </Hotkey>
               </Hotkeys>
@@ -127,18 +183,18 @@
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
-              <ID>28</ID>
+              <ID>35</ID>
               <Description>"doors esp"</Description>
               <VariableType>4 Bytes</VariableType>
-              <Address>"gameoverlayrenderer64.dll"+00158B58</Address>
+              <Address>"gameoverlayrenderer64.dll"+001474D8</Address>
               <Offsets>
                 <Offset>8</Offset>
                 <Offset>18</Offset>
-                <Offset>58</Offset>
-                <Offset>40</Offset>
+                <Offset>60</Offset>
+                <Offset>10</Offset>
                 <Offset>0</Offset>
-                <Offset>8C</Offset>
-                <Offset>308</Offset>
+                <Offset>6C</Offset>
+                <Offset>8</Offset>
               </Offsets>
               <Hotkeys>
                 <Hotkey>
@@ -147,10 +203,25 @@
                     <Key>98</Key>
                   </Keys>
                   <Value>16842009</Value>
-                  <Description>obvious ngl, are you fr?</Description>
+                  <Description>obvious fr....... s t o p</Description>
                   <ID>0</ID>
                 </Hotkey>
               </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>34</ID>
+              <Description>"doors esp"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"gameoverlayrenderer64.dll"+001474D8</Address>
+              <Offsets>
+                <Offset>8</Offset>
+                <Offset>18</Offset>
+                <Offset>60</Offset>
+                <Offset>10</Offset>
+                <Offset>0</Offset>
+                <Offset>6C</Offset>
+                <Offset>10</Offset>
+              </Offsets>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -180,26 +251,53 @@
         </CheatEntry>
         <CheatEntry>
           <ID>18</ID>
-          <Description>"the Address that mentioned in my guide/tutorial"</Description>
+          <Description>"the Address that mentioned in my guide/tutorial (There are two addresses cuz i'm not sure which is one, they both work lol)"</Description>
           <Options moHideChildren="1" moManualExpandCollapse="1"/>
           <Color>80FF00</Color>
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
-              <ID>29</ID>
+              <ID>37</ID>
               <Description>"Address mentioned"</Description>
-              <Color>8080FF</Color>
+              <Color>AE60AC</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"gameoverlayrenderer64.dll"+00158B58</Address>
+              <Address>"gameoverlayrenderer64.dll"+001474D8</Address>
               <Offsets>
                 <Offset>8</Offset>
                 <Offset>18</Offset>
-                <Offset>58</Offset>
-                <Offset>40</Offset>
+                <Offset>60</Offset>
+                <Offset>10</Offset>
                 <Offset>0</Offset>
-                <Offset>8C</Offset>
-                <Offset>308</Offset>
+                <Offset>6C</Offset>
+                <Offset>10</Offset>
               </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>36</ID>
+              <Description>"Address mentioned"</Description>
+              <Color>AE60AC</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"gameoverlayrenderer64.dll"+001474D8</Address>
+              <Offsets>
+                <Offset>8</Offset>
+                <Offset>18</Offset>
+                <Offset>60</Offset>
+                <Offset>10</Offset>
+                <Offset>0</Offset>
+                <Offset>6C</Offset>
+                <Offset>8</Offset>
+              </Offsets>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>98</Key>
+                  </Keys>
+                  <Value>16842009</Value>
+                  <Description>obvious fr....... s t o p</Description>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -374,6 +472,466 @@
       <Before>
         <Byte>81</Byte>
         <Byte>FA</Byte>
+        <Byte>7F</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>51</Byte>
+        <Byte>0B</Byte>
+      </Actual>
+      <After>
+        <Byte>C3</Byte>
+        <Byte>19</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rcx+08],dl</Description>
+      <AddressString>7FFA817B1380</AddressString>
+      <Before>
+        <Byte>81</Byte>
+        <Byte>FA</Byte>
+        <Byte>7F</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>51</Byte>
+        <Byte>08</Byte>
+      </Actual>
+      <After>
+        <Byte>C3</Byte>
+        <Byte>19</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rcx+09],dl</Description>
+      <AddressString>7FFA817B13A0</AddressString>
+      <Before>
+        <Byte>81</Byte>
+        <Byte>FA</Byte>
+        <Byte>7F</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>51</Byte>
+        <Byte>09</Byte>
+      </Actual>
+      <After>
+        <Byte>C3</Byte>
+        <Byte>19</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rcx+0A],dl</Description>
+      <AddressString>7FFA817B13C0</AddressString>
+      <Before>
+        <Byte>81</Byte>
+        <Byte>FA</Byte>
+        <Byte>7F</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>51</Byte>
+        <Byte>0A</Byte>
+      </Actual>
+      <After>
+        <Byte>C3</Byte>
+        <Byte>19</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rcx+0B],dl</Description>
+      <AddressString>7FFA817B13E0</AddressString>
+      <Before>
+        <Byte>81</Byte>
+        <Byte>FA</Byte>
+        <Byte>7F</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>51</Byte>
+        <Byte>0B</Byte>
+      </Actual>
+      <After>
+        <Byte>C3</Byte>
+        <Byte>19</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rcx+08],dl</Description>
+      <AddressString>7FFA817B1380</AddressString>
+      <Before>
+        <Byte>81</Byte>
+        <Byte>FA</Byte>
+        <Byte>7F</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>51</Byte>
+        <Byte>08</Byte>
+      </Actual>
+      <After>
+        <Byte>C3</Byte>
+        <Byte>19</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rcx+09],dl</Description>
+      <AddressString>7FFA817B13A0</AddressString>
+      <Before>
+        <Byte>81</Byte>
+        <Byte>FA</Byte>
+        <Byte>7F</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>51</Byte>
+        <Byte>09</Byte>
+      </Actual>
+      <After>
+        <Byte>C3</Byte>
+        <Byte>19</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rcx+0A],dl</Description>
+      <AddressString>7FFA817B13C0</AddressString>
+      <Before>
+        <Byte>81</Byte>
+        <Byte>FA</Byte>
+        <Byte>7F</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>51</Byte>
+        <Byte>0A</Byte>
+      </Actual>
+      <After>
+        <Byte>C3</Byte>
+        <Byte>19</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rcx+0B],dl</Description>
+      <AddressString>7FFA817B13E0</AddressString>
+      <Before>
+        <Byte>81</Byte>
+        <Byte>FA</Byte>
+        <Byte>7F</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>51</Byte>
+        <Byte>0B</Byte>
+      </Actual>
+      <After>
+        <Byte>C3</Byte>
+        <Byte>19</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rax+08],cl</Description>
+      <AddressString>7FFBC0113B92</AddressString>
+      <Before>
+        <Byte>45</Byte>
+        <Byte>10</Byte>
+        <Byte>8B</Byte>
+        <Byte>4D</Byte>
+        <Byte>18</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>48</Byte>
+        <Byte>08</Byte>
+      </Actual>
+      <After>
+        <Byte>5D</Byte>
+        <Byte>C3</Byte>
+        <Byte>00</Byte>
+        <Byte>19</Byte>
+        <Byte>01</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rax+09],cl</Description>
+      <AddressString>7FFBC0113BC2</AddressString>
+      <Before>
+        <Byte>45</Byte>
+        <Byte>10</Byte>
+        <Byte>8B</Byte>
+        <Byte>4D</Byte>
+        <Byte>18</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>48</Byte>
+        <Byte>09</Byte>
+      </Actual>
+      <After>
+        <Byte>5D</Byte>
+        <Byte>C3</Byte>
+        <Byte>00</Byte>
+        <Byte>19</Byte>
+        <Byte>01</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rax+0A],cl</Description>
+      <AddressString>7FFBC0113BF2</AddressString>
+      <Before>
+        <Byte>45</Byte>
+        <Byte>10</Byte>
+        <Byte>8B</Byte>
+        <Byte>4D</Byte>
+        <Byte>18</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>48</Byte>
+        <Byte>0A</Byte>
+      </Actual>
+      <After>
+        <Byte>5D</Byte>
+        <Byte>C3</Byte>
+        <Byte>00</Byte>
+        <Byte>19</Byte>
+        <Byte>01</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rax+0B],cl</Description>
+      <AddressString>7FFBC0113C22</AddressString>
+      <Before>
+        <Byte>45</Byte>
+        <Byte>10</Byte>
+        <Byte>8B</Byte>
+        <Byte>4D</Byte>
+        <Byte>18</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>48</Byte>
+        <Byte>0B</Byte>
+      </Actual>
+      <After>
+        <Byte>5D</Byte>
+        <Byte>C3</Byte>
+        <Byte>00</Byte>
+        <Byte>19</Byte>
+        <Byte>01</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rax+08],cl</Description>
+      <AddressString>7FFBC0189162</AddressString>
+      <Before>
+        <Byte>45</Byte>
+        <Byte>10</Byte>
+        <Byte>8B</Byte>
+        <Byte>4D</Byte>
+        <Byte>18</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>48</Byte>
+        <Byte>08</Byte>
+      </Actual>
+      <After>
+        <Byte>5D</Byte>
+        <Byte>C3</Byte>
+        <Byte>3B</Byte>
+        <Byte>19</Byte>
+        <Byte>01</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rax+09],cl</Description>
+      <AddressString>7FFBC0189192</AddressString>
+      <Before>
+        <Byte>45</Byte>
+        <Byte>10</Byte>
+        <Byte>8B</Byte>
+        <Byte>4D</Byte>
+        <Byte>18</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>48</Byte>
+        <Byte>09</Byte>
+      </Actual>
+      <After>
+        <Byte>5D</Byte>
+        <Byte>C3</Byte>
+        <Byte>45</Byte>
+        <Byte>19</Byte>
+        <Byte>01</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rax+0A],cl</Description>
+      <AddressString>7FFBC01891C2</AddressString>
+      <Before>
+        <Byte>45</Byte>
+        <Byte>10</Byte>
+        <Byte>8B</Byte>
+        <Byte>4D</Byte>
+        <Byte>18</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>48</Byte>
+        <Byte>0A</Byte>
+      </Actual>
+      <After>
+        <Byte>5D</Byte>
+        <Byte>C3</Byte>
+        <Byte>76</Byte>
+        <Byte>19</Byte>
+        <Byte>01</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rax+0B],cl</Description>
+      <AddressString>7FFBC01891F2</AddressString>
+      <Before>
+        <Byte>45</Byte>
+        <Byte>10</Byte>
+        <Byte>8B</Byte>
+        <Byte>4D</Byte>
+        <Byte>18</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>48</Byte>
+        <Byte>0B</Byte>
+      </Actual>
+      <After>
+        <Byte>5D</Byte>
+        <Byte>C3</Byte>
+        <Byte>69</Byte>
+        <Byte>19</Byte>
+        <Byte>01</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rcx+08],dl</Description>
+      <AddressString>7FFBC01AA510</AddressString>
+      <Before>
+        <Byte>C0</Byte>
+        <Byte>FB</Byte>
+        <Byte>7F</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>51</Byte>
+        <Byte>08</Byte>
+      </Actual>
+      <After>
+        <Byte>C3</Byte>
+        <Byte>19</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rcx+09],dl</Description>
+      <AddressString>7FFBC01AA530</AddressString>
+      <Before>
+        <Byte>C0</Byte>
+        <Byte>FB</Byte>
+        <Byte>7F</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>51</Byte>
+        <Byte>09</Byte>
+      </Actual>
+      <After>
+        <Byte>C3</Byte>
+        <Byte>19</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rcx+0A],dl</Description>
+      <AddressString>7FFBC01AA550</AddressString>
+      <Before>
+        <Byte>C0</Byte>
+        <Byte>FB</Byte>
+        <Byte>7F</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>51</Byte>
+        <Byte>0A</Byte>
+      </Actual>
+      <After>
+        <Byte>C3</Byte>
+        <Byte>19</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rcx+0B],dl</Description>
+      <AddressString>7FFBC01AA570</AddressString>
+      <Before>
+        <Byte>C0</Byte>
+        <Byte>FB</Byte>
         <Byte>7F</Byte>
         <Byte>00</Byte>
         <Byte>00</Byte>
