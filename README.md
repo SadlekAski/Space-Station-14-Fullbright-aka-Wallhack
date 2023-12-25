@@ -3,7 +3,7 @@
 I THINK it's patched
 ---------------------------
 If you don't want do this all by yourself, just download my cheat engine table
-https://github.com/SadlekAski/Space-Station-14-Fullbright-aka-Wallhack/blob/main/SS14.Loader.CT
+https://github.com/SadlekAski/Space-Station-14-Fullbright-aka-Wallhack/tree/main/Cheat%20Engine%20Table
 -------------------------------------
 I will tell how to do a fullbright in space station 14 because I haven't found anything about it. Tutorial will be in Readme (Well its Readme already)
 
