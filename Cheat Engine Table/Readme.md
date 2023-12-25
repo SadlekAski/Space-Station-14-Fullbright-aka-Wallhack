@@ -1,5 +1,5 @@
 ```
-how to use:
+How to use:
 1. download ss14.Loader.CT
 2. launch it and choose ss14 proccess (NOT SPACE STATION 14 LAUNCHER)
 3. look at keybinds that set and press the key to change fullbright type
