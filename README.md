@@ -1,6 +1,6 @@
 # Space-Station-14-Fullbright-aka-Wallhack Hack guide, aka Esp
 -----------------------------
-~Updated, Works now.~ somehow it stopped working, figuring out correct offsets (again) lol
+HOPING that it will work now
 ---------------------------
 If you don't want do this all by yourself, just download my cheat engine table
 
