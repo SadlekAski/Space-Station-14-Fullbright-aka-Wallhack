@@ -1,6 +1,6 @@
 # Space-Station-14-Fullbright-aka-Wallhack Hack guide, aka Esp
 -----------------------------
-HOPING that it will work now
+You can get banned for doing this, I was banned on one of "Imperial Space" servers because of that, yes you can bypass ban by changing your hwid (and ip?) and account, but you will still lose progress you achieved
 ---------------------------
 If you don't want do this all by yourself, just download my cheat engine table
 
