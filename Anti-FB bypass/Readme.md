@@ -1,4 +1,9 @@
-I may add tutorial right inside of cheat engine table (its just gonna take some time which I don't want to spend cuz im lazy as hell :D)
+BAN RISK
+РИСК БАНА
+
+I have tried this on "Imperial Space" and got banned after I made it active (so it stays same) and changed it to 16843008, it was keep changing and ig it was logging to console, I got kicked by console after like 5 seconds and then permanently banned on that server
+
+Я пробовал на "Imperial Space" на одном из их серверов, я сделал адрес активным и поменял на 16843008 (чтобы он всегда менялся на это число), через 5 секунд я был кикнут консолью, захожу и я перманентно (навсегда) забанен
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 EN
 ```
